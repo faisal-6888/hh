@@ -1,0 +1,13 @@
+<svg width="512" height="512" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="refinedClawGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C084FC" />
+      <stop offset="60%" stop-color="#9333EA" />
+      <stop offset="100%" stop-color="#581C87" />
+    </linearGradient>
+  </defs>
+  <path d="M60 10 L85 90 H70 L45 10 Z" fill="url(#refinedClawGradient)" />
+  <path d="M40 30 L65 90 H50 L25 30 Z" fill="url(#refinedClawGradient)" opacity="0.9" />
+  <path d="M20 60 L45 90 H30 L5 60 Z" fill="url(#refinedClawGradient)" opacity="0.75" />
+  <path d="M60 10 L45 10" stroke="white" stroke-width="0.8" stroke-linecap="round" opacity="0.25" />
+</svg>
